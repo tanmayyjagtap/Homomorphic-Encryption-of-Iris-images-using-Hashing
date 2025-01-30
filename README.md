@@ -26,5 +26,4 @@ This repository contains research on **Homomorphic Encryption of Iris Using Hash
 🔹 Improve feature extraction using **deep learning models**.  
 🔹 Extend the system to support **multi-modal biometric authentication**.  
 
-## **License**  
-This project is licensed under the **MIT License**.  
+
